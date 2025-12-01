@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-wifayfel:github-880219c5885817d18a0a4e494018d04489ee2b06
+        - image: nexus-docker-nexus.apps.rosa.rhtap-services.xmdt.p3.openshiftapps.com/rhtap/python-wifayfel:github-ce1b6e000450348715dfa60a6caac74980083e3d
           name: container-image
